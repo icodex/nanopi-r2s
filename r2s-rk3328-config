@@ -2396,6 +2396,13 @@ CONFIG_PACKAGE_netdata=y
 #
 
 #
+# Derry Apps
+#
+CONFIG_PACKAGE_appfilter=y
+CONFIG_PACKAGE_kmod-oaf=y
+# end of Derry Apps
+
+#
 # Development
 #
 
@@ -5066,6 +5073,7 @@ CONFIG_PACKAGE_luci-app-nps=y
 # CONFIG_PACKAGE_luci-app-ntpc is not set
 # CONFIG_PACKAGE_luci-app-ocserv is not set
 CONFIG_PACKAGE_luci-app-oled=y
+CONFIG_PACKAGE_luci-app-oaf=y
 # CONFIG_PACKAGE_luci-app-olsr is not set
 # CONFIG_PACKAGE_luci-app-olsr-services is not set
 # CONFIG_PACKAGE_luci-app-olsr-viz is not set
