@@ -1,5 +1,6 @@
 ## 20210226
 * 修复 OpenClash 下载地址
+* 移除 OpenVPN 功能
 
 ## 20210225
 * 集成 luci-app-oaf
